@@ -1,0 +1,44 @@
+/* *{
+    background-image: url(https://i.imgur.com/KwOTpCW.png);
+    
+} */
+body{
+    
+    background-color: rgb(60, 47, 116);
+    background-image: url(https://i.imgur.com/yth1wqi.png);
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.nebulosa{
+    background-image: url(https://i.imgur.com/6RLeUO8.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#stars{
+    opacity: 30%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+#star{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+section{
+    margin: auto 15%;
+    text-align: justify;
+}
+#sol{
+    position: absolute;
+}
+#logo{
+    width: 40%;
+    position: fixed;
+    left: 30%;
+    top: 50%;
+}
